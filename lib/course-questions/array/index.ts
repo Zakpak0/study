@@ -1,0 +1,1 @@
+export { subarrays } from './subarray'
